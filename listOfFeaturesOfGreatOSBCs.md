@@ -20,15 +20,15 @@
 
 ## Clear vision and mission
 
-## Quick responses to bug fixes/feature requests
+## Quick responses to bug fixes/feature requests (can be a part of "Extensive access to and communication with users")
 
 ## High-quality interaction and interoperability with linked/similar projects
 
-## Easy to contribute to
+## Easy to contribute to (also, can be a part of "Extensive access to and communication with users")
 
-## Address a clear specific useful need
+## Address a clear specific useful need (can be merged with "Clear vision and mission")
 
-## Value openness
+## Value openness (this is implied, so probably not neccessary)
 
 ## Software is easy to install, and installable on many platforms
 
