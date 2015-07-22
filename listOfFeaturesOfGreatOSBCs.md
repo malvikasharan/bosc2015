@@ -34,4 +34,4 @@
 
 ## Proper documentation, for e.g. manuals, tutorials
 
-## Well designed stratagy to increase its visibility to the community (use to social media, conferences etc.)
+## Well designed stratagy to increase its visibility to the community (use of social media, conferences etc.)
