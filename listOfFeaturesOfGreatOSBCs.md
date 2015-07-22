@@ -4,7 +4,7 @@
 
 ## Diverse perspectives and backgrounds
 
-## Rich in resources
+## Rich in resources (does this indicate links to useful resources?)
 
 ## Self-sustaining/perpetuating
 
@@ -31,3 +31,7 @@
 ## Value openness
 
 ## Software is easy to install, and installable on many platforms
+
+## Proper documentation, for e.g. manuals, tutorials
+
+## Well designed stratagy to increase its visibility to the community (use to social media, conferences etc.)
